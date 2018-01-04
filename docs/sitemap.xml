@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:1313/article/support-me-and-this-theme/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gallery/my-trip-to-scotland/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/video/kilez-more-leben-und-tod-des-imperialismus/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/audio/kilez-more-new-wolrd-order/</loc>
+    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/page/about-bilberry/</loc>
+    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/page/github/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/link/duckduckgo/</loc>
+    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/quote/edward-snowden-privacy/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/code/installing-bilberry-theme/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/article/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/audio/</loc>
+    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/author/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/bilberry-theme/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/code/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/code/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/author/edward-snowden/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/eilean-donan-castle/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/free-speech/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/gallery/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/glennfinnan-viaduct/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/holidays/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/income/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/kilez-more/</loc>
+    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/author/lednerb/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/link/</loc>
+    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/music/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/page/</loc>
+    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/patreon/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/politics/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/privacy/</loc>
+    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/quote/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/say-thanks/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/scotland/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/search-engine/</loc>
+    <lastmod>2017-11-01T13:05:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/society/</loc>
+    <lastmod>2017-11-01T13:01:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/support/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/survival/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/travelling/</loc>
+    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/truth-rap/</loc>
+    <lastmod>2017-11-01T16:12:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/tutorials/</loc>
+    <lastmod>2017-11-01T09:31:27+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/categories/video/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/video/</loc>
+    <lastmod>2017-11-01T16:23:40+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
