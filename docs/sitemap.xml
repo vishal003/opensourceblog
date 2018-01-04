@@ -3,266 +3,266 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//localhost:1313/article/support-me-and-this-theme/</loc>
+    <loc>//localhost:1313/opensourceblog/article/support-me-and-this-theme/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gallery/my-trip-to-scotland/</loc>
+    <loc>//localhost:1313/opensourceblog/gallery/my-trip-to-scotland/</loc>
     <lastmod>2017-11-01T18:01:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/video/kilez-more-leben-und-tod-des-imperialismus/</loc>
+    <loc>//localhost:1313/opensourceblog/video/kilez-more-leben-und-tod-des-imperialismus/</loc>
     <lastmod>2017-11-01T16:23:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/audio/kilez-more-new-wolrd-order/</loc>
+    <loc>//localhost:1313/opensourceblog/audio/kilez-more-new-wolrd-order/</loc>
     <lastmod>2017-11-01T16:12:47+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/page/about-bilberry/</loc>
+    <loc>//localhost:1313/opensourceblog/page/about-bilberry/</loc>
     <lastmod>2017-11-01T13:18:45+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/page/github/</loc>
+    <loc>//localhost:1313/opensourceblog/page/github/</loc>
     <lastmod>2017-11-01T13:17:56+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/link/duckduckgo/</loc>
+    <loc>//localhost:1313/opensourceblog/link/duckduckgo/</loc>
     <lastmod>2017-11-01T13:05:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/quote/edward-snowden-privacy/</loc>
+    <loc>//localhost:1313/opensourceblog/quote/edward-snowden-privacy/</loc>
     <lastmod>2017-11-01T13:01:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/code/installing-bilberry-theme/</loc>
+    <loc>//localhost:1313/opensourceblog/code/installing-bilberry-theme/</loc>
     <lastmod>2017-11-01T09:31:27+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/article/</loc>
+    <loc>//localhost:1313/opensourceblog/article/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/audio/</loc>
+    <loc>//localhost:1313/opensourceblog/audio/</loc>
     <lastmod>2017-11-01T16:12:47+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/author/</loc>
+    <loc>//localhost:1313/opensourceblog/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/bilberry-theme/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/bilberry-theme/</loc>
     <lastmod>2017-11-01T09:31:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/code/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/code/</loc>
     <lastmod>2017-11-01T09:31:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/code/</loc>
+    <loc>//localhost:1313/opensourceblog/code/</loc>
     <lastmod>2017-11-01T09:31:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/author/edward-snowden/</loc>
+    <loc>//localhost:1313/opensourceblog/author/edward-snowden/</loc>
     <lastmod>2017-11-01T13:01:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/eilean-donan-castle/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/eilean-donan-castle/</loc>
     <lastmod>2017-11-01T18:01:26+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/free-speech/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/free-speech/</loc>
     <lastmod>2017-11-01T13:01:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/gallery/</loc>
+    <loc>//localhost:1313/opensourceblog/gallery/</loc>
     <lastmod>2017-11-01T18:01:26+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/glennfinnan-viaduct/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/glennfinnan-viaduct/</loc>
     <lastmod>2017-11-01T18:01:26+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/holidays/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/holidays/</loc>
     <lastmod>2017-11-01T18:01:26+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/hugo/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/hugo/</loc>
     <lastmod>2017-11-01T09:31:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/income/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/income/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/kilez-more/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/kilez-more/</loc>
     <lastmod>2017-11-01T16:12:47+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/author/lednerb/</loc>
+    <loc>//localhost:1313/opensourceblog/author/lednerb/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/link/</loc>
+    <loc>//localhost:1313/opensourceblog/link/</loc>
     <lastmod>2017-11-01T13:05:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/music/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/music/</loc>
     <lastmod>2017-11-01T16:23:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:1313/opensourceblog/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/page/</loc>
+    <loc>//localhost:1313/opensourceblog/page/</loc>
     <lastmod>2017-11-01T13:18:45+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/patreon/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/patreon/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/politics/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/politics/</loc>
     <lastmod>2017-11-01T16:23:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/privacy/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/privacy/</loc>
     <lastmod>2017-11-01T13:05:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/quote/</loc>
+    <loc>//localhost:1313/opensourceblog/quote/</loc>
     <lastmod>2017-11-01T13:01:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/say-thanks/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/say-thanks/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/scotland/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/scotland/</loc>
     <lastmod>2017-11-01T18:01:26+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/search-engine/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/search-engine/</loc>
     <lastmod>2017-11-01T13:05:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/society/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/society/</loc>
     <lastmod>2017-11-01T13:01:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/support/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/support/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/survival/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/survival/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/</loc>
     <lastmod>2017-11-01T09:31:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/travelling/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/travelling/</loc>
     <lastmod>2017-11-01T18:01:26+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/truth-rap/</loc>
+    <loc>//localhost:1313/opensourceblog/tags/truth-rap/</loc>
     <lastmod>2017-11-01T16:12:47+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/tutorials/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/tutorials/</loc>
     <lastmod>2017-11-01T09:31:27+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/video/</loc>
+    <loc>//localhost:1313/opensourceblog/categories/video/</loc>
     <lastmod>2017-11-01T16:23:40+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/video/</loc>
+    <loc>//localhost:1313/opensourceblog/video/</loc>
     <lastmod>2017-11-01T16:23:40+01:00</lastmod>
     <priority>0</priority>
   </url>

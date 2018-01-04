@@ -1,5 +1,5 @@
 title = "Open Source Tutorials Blog"
-baseURL = "tayyabsayyad.github.io"
+baseURL = "tayyabsayyad.github.io/opensourceblog"
 theme = "bilberry-hugo-theme"
 
 enableRobotsTXT = true
